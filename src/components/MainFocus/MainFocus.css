@@ -1,0 +1,54 @@
+.input{
+    margin: 16px;
+    padding: 30px 26px ;
+    height: 5px;
+    width: 500px;
+    font-size: 30px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #e7e5e4;
+    border-bottom: 2px solid white;
+    box-shadow: -2px 2px 17px -3px rgba(0,0,0,0.67);
+}
+
+.btn{
+    height: 40px;
+    width: 140px;
+    padding: 8px;
+    margin: 16px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #fbbf24;
+    color: #f1f5f9;
+    border: none;
+    border-radius: 9px;
+    box-shadow: -2px 2px 17px -3px rgba(0,0,0,0.67);
+
+}
+
+input[type="checkbox"]{
+    height: 30px;
+    width: 30px;
+
+    
+}
+.task{
+  
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+
+.mainfocus{
+    
+    display: flex;
+   
+   
+    justify-content: flex-start;
+    
+    flex-direction: column;
+  
+    height: 100vh;
+}
